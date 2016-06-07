@@ -1,0 +1,1 @@
+# codeigniter-bootstrap_pagination
